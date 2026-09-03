@@ -1,0 +1,18 @@
+Profile: InterviewCaseLabResult
+Parent: $ch-vacd-laboratory-serology
+Id: interview-case-lab-result
+Title: "Interview Case Lab Result"
+Description: "Profile for recording laboratory results"
+
+* status 1..1 MS
+
+* category 1..* MS
+
+* code 1..1 MS
+
+* subject 1..1 MS
+
+* value[x] 1..1 MS
+* value[x] only Quantity
+
+* performer 1..* MS
