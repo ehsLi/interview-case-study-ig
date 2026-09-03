@@ -15,8 +15,8 @@ The full use case is available in two languages:
 
 The IG presents three tasks that are described on the home pages:
 
-- [Home (German)](https://pjolo.github.io/interview-case-study-ig/index.html)
-- [Home (French)](https://pjolo.github.io/interview-case-study-ig/indexFR.html)
+- [Home (German)](https://ehsLi.github.io/interview-case-study-ig/index.html)
+- [Home (French)](https://ehsLi.github.io/interview-case-study-ig/indexFR.html)
 
 | Task | Description | Language |
 |---|---|---|
@@ -28,4 +28,4 @@ The IG presents three tasks that are described on the home pages:
 
 The continuous integration build is available here:
 
-- **CI Build:** <https://pjolo.github.io/interview-case-study-ig/>
+- **CI Build:** <https://ehsLi.github.io/interview-case-study-ig/>
