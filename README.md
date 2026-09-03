@@ -8,14 +8,14 @@ The use case describes a new national vaccination registry. Patient data, labora
 
 The full use case is available in two languages:
 
-- [German Use Case](usecase-german.html)
-- [French Use Case](usecase-french.html)
+- [German Use Case](https://ehsli.github.io/interview-case-study-ig/en/usecase-german.html)
+- [French Use Case](https://ehsli.github.io/interview-case-study-ig/en/usecase-french.html)
 
 ## Tasks for Candidates
 
 The IG presents three tasks that are described on the home pages:
 
-- [Home (German)](https://ehsli.github.io/interview-case-study-ig/en/)
+- [Home (German)](https://ehsli.github.io/interview-case-study-ig/)
 - [Home (French)](https://ehsli.github.io/interview-case-study-ig/en/indexFR.html)
 
 | Task | Description | Language |
